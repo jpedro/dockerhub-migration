@@ -1,0 +1,1 @@
+nginx:1.14.2 gcr.io/greg-259714/nginx:1.14.2
